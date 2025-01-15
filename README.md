@@ -12,7 +12,9 @@
 ## Daten herunterladen
 https://archive.ics.uci.edu/dataset/890/aids+clinical+trials+group+study+175
 
-Die ANweisungen beinhalten einen veralteten Code. Das aktuelle Handing des `ucimlrepo` Pakets kann man [hier]("https://github.com/uci-ml-repo/ucimlrepo?tab=readme-ov-file#ucimlrepo-package") nachvollziehen.
+Die Anweisungen beinhalten einen veralteten Code. Das aktuelle Handing des `ucimlrepo` Pakets kann man [hier](https://github.com/uci-ml-repo/ucimlrepo?tab=readme-ov-file#ucimlrepo-package) nachvollziehen.
+
+Die Daten für die Arbeit wurden noch vor den aktuellen Änderungen am 27.11.2024 herunter geladen. 
 
 ## Publikation zu den Daten
 https://www.nejm.org/doi/10.1056/NEJM199610103351501?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov
