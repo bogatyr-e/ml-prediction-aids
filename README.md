@@ -1,4 +1,4 @@
-# Machine Learning Modell zur Vorhersage des körperlichen Zustandes nach einer AIDS-Infektion und dem darauf folgenden Treatment
+# Machine Learning Modell zur Vorhersage des Überlebens nach einer AIDS-Infektion und dem darauf folgenden Treatment
 ## Die üblichen Schritte im Teminal
 `.\venv\Scripts\activate` aktiviert die virtuelle Umgebung
 
