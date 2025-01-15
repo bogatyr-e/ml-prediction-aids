@@ -9,6 +9,10 @@
 `git commit -m "text"` commitet die Änderungen
 
 `git push ` führt *push* aus
+
+## Repository Struktur
+Es wurden Ornder für Daten `data`, Code `src`, Modelle `models`, Grafiken `plots` und Tabellen `tables` angelegt. Für die zu verwendenden Pakete wurde File `requirements.txt` erstellt. Eine ausführliche Anleitung zum Handing von requirements-file findet man [hier](https://learnpython.com/blog/python-requirements-file/).
+
 ## Daten herunterladen
 https://archive.ics.uci.edu/dataset/890/aids+clinical+trials+group+study+175
 
