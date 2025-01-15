@@ -1,10 +1,14 @@
 # Machine Learning Modell zur Vorhersage des körperlichen Zustandes nach einer AIDS-Infektion und dem darauf folgenden Treatment
 ## Die üblichen Schritte im Teminal
-`.\venv\Scripts\activate` aktiviert die virtuelle Umgebung.
+`.\venv\Scripts\activate` aktiviert die virtuelle Umgebung
+
 `git status` prüft Änderungen
+
 `git add .` fügt Änderungen hinzu
+
 `git commit -m "text"` commitet die Änderungen
-`git push ` führt <i>push</i> aus
+
+`git push ` führt 'push' aus
 ## Daten herunterladen
 https://archive.ics.uci.edu/dataset/890/aids+clinical+trials+group+study+175
 
