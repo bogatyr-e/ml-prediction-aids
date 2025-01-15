@@ -1,12 +1,16 @@
-# Machine Learning Modell zur Vorhersage des körperlichen Zustandes nach einer AIDS-Infektion und dem darauf folgendem Treatment
-## die üblichen Schritte auf Teminal
-.\venv\Scripts\activate
+# Machine Learning Modell zur Vorhersage des körperlichen Zustandes nach einer AIDS-Infektion und dem darauf folgenden Treatment
+## Die üblichen Schritte im Teminal
+`.\venv\Scripts\activate` aktiviert die virtuelle Umgebung.
+`git status` prüft Änderungen
+`git add .` fügt Änderungen hinzu
+`git commit -m "text"` commitet die Änderungen
+`git push ` führt <i>push</i> aus
 ## Daten herunterladen
 https://archive.ics.uci.edu/dataset/890/aids+clinical+trials+group+study+175
 
 Anweisungen folgen
 
-## Paper zu dem daten
+## Publikation zu den Daten
 https://www.nejm.org/doi/10.1056/NEJM199610103351501?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov
 
 ## Variablen-Beschreibung
@@ -38,4 +42,5 @@ cd40 |	Feature	| Integer	||	CD4 at baseline	||	no |
 cd420 |	Feature	| Integer	||	CD4 at 20+/-5 weeks	||	no |
 cd80 |	Feature	| Integer	||	CD8 at baseline	||	no |
 cd820 |	Feature	| Integer	||	CD8 at 20+/-5 weeks	||	no |
+
 
