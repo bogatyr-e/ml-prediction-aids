@@ -1,9 +1,10 @@
 <!-- vscode-markdown-toc -->
-* [Die üblichen Schritte im Teminal](#DieblichenSchritteimTeminal)
-* [Repository Struktur](#RepositoryStruktur)
-* [Daten herunterladen](#Datenherunterladen)
-* [Publikation zu den Daten](#PublikationzudenDaten)
-* [Variablen-Beschreibung](#Variablen-Beschreibung)
+* 1. [Die üblichen Schritte im Teminal](#DieblichenSchritteimTeminal)
+* 2. [Repository Struktur](#RepositoryStruktur)
+* 3. [Daten herunterladen](#Datenherunterladen)
+* 4. [Publikation zu den Daten](#PublikationzudenDaten)
+* 5. [Variablen-Beschreibung](#Variablen-Beschreibung)
+* 6. [Der Python-Code](#DerPython-Code)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -68,8 +69,10 @@ cd420 |	Feature	| Integer	||	CD4 at 20+/-5 weeks	||	no |
 cd80 |	Feature	| Integer	||	CD8 at baseline	||	no |
 cd820 |	Feature	| Integer	||	CD8 at 20+/-5 weeks	||	no |
 
+Die Daten wurden vom Sourse aus getrennt in Features- und Target-Datensätzen zur Verfügung gestellt.
+
 ##  6. <a name='DerPython-Code'></a>Der Python-Code
-Im Ordner `src` befindet sich der kompellte Python-Code für die vorliegende Arbeit. Die Arbeit wird mithilfe von `notebooks` in `.ipynb` geschrieben. Das initiale Herunterladen vom extrnen Source und Ablegen der Daten befindet sich in einem gesonderten File. Die komplette darauffolgende Programmierung mit dem ausführlichen Inhaltsverzeichnis befindet sich im `ml-survival-project.ipynb` File.
+Im Ordner `src` befindet sich der komplette Python-Code für die vorliegende Arbeit. Die Arbeit wird mithilfe von `Jupiter notebooks` in `.ipynb` geschrieben. Das initiale Herunterladen von einem externen Source und Ablegen der Daten am 27.11.2024 befindet sich in dem `df-import-alt-version.ipynb` File. Das Handing des neuen `ucimlrepo` befindet sich im `df-import-neuer-code.ipynb` File.  Die komplette darauffolgende Programmierung mit einem jeweils ausführlichen Inhaltsverzeichnis ist auf zwei Files verteilt. Das Preprocessing fintet im `preprocessing.ipynb` und das Bilden von Modellen und Vorhersagen  im `ml-survival-project.ipynb` Files statt.
 
 
 
