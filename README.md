@@ -7,7 +7,7 @@
 * 6. [Der Python-Code](#DerPython-Code)
 
 <!-- vscode-markdown-toc-config
-	numbering=true
+	numbering=false
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
@@ -31,12 +31,11 @@ Es wurden Ornder für Daten `data`, Code `src`, Modelle `models`, Grafiken `plot
 ##  3. <a name='DatenSource'></a>Daten Source
 https://archive.ics.uci.edu/dataset/890/aids+clinical+trials+group+study+175
 
-Die Anweisungen beinhalten einen veralteten Code. Das aktuelle Handing des `ucimlrepo` Pakets kann man [hier](https://github.com/uci-ml-repo/ucimlrepo?tab=readme-ov-file#ucimlrepo-package) nachvollziehen.
-
-Die Daten für die Arbeit wurden noch vor den aktuellen Änderungen am 27.11.2024 herunter geladen. 
+Die Anweisungen beinhalten einen veralteten Code. Das aktuelle Handing des `ucimlrepo` Pakets kann man [hier](https://github.com/uci-ml-repo/ucimlrepo?tab=readme-ov-file#ucimlrepo-package) nachvollziehen. Die Daten für die Arbeit wurden noch vor den aktuellen Änderungen am 27.11.2024 herunter geladen. 
 
 ##  4. <a name='PublikationzudenDaten'></a>Publikation zu den Daten
-Die Daten wurden 1996 in *The new England Journal of Medicine* veröffentlicht.
+Die Daten wurden 1996 im *The new England Journal of Medicine* veröffentlicht.
+
 https://www.nejm.org/doi/10.1056/NEJM199610103351501?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov
 
 ##  5. <a name='Variablen-Beschreibung'></a>Variablen-Beschreibung
@@ -72,7 +71,7 @@ cd820 |	Feature	| Integer	||	CD8 at 20+/-5 weeks	||	no |
 Die Daten wurden vom Sourse aus getrennt in Features- und Target-Datensätzen zur Verfügung gestellt.
 
 ##  6. <a name='DerPython-Code'></a>Der Python-Code
-Im Ordner `src` befindet sich der komplette Python-Code für die vorliegende Arbeit. Die Arbeit wird mithilfe von `Jupiter notebooks` in `.ipynb` geschrieben. Das initiale Herunterladen von einem externen Source und Ablegen der Daten am 27.11.2024 befindet sich in dem `df-import-alt-version.ipynb` File. Das Handing des neuen `ucimlrepo` befindet sich im `df-import-neuer-code.ipynb` File.  Die komplette darauffolgende Programmierung mit einem jeweils ausführlichen Inhaltsverzeichnis ist auf zwei Files verteilt. Das Preprocessing fintet im `preprocessing.ipynb` und das Bilden von Modellen und Vorhersagen  im `ml-survival-project.ipynb` Files statt.
+Im Ordner `src` befindet sich der komplette Python-Code für die vorliegende Arbeit. Die Arbeit wird mithilfe von `Jupiter notebooks` in `.ipynb` geschrieben. Das initiale Herunterladen von einem externen Source und Ablegen der Daten am 27.11.2024 befindet sich in dem `df-import-alt-version.ipynb` File. Das Handing des neuen `ucimlrepo` befindet sich im `df-import-neuer-code.ipynb` File.  Die komplette darauffolgende Programmierung mit einem jeweils ausführlichen Inhaltsverzeichnis ist auf zwei Files verteilt. Das Preprocessing findet im `preprocessing.ipynb` und das Bilden von Modellen und Vorhersagen  im `ml-survival-project.ipynb` Files statt.
 
 
 
