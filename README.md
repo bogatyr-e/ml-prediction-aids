@@ -35,6 +35,7 @@ Die Anweisungen beinhalten einen veralteten Code. Das aktuelle Handing des `ucim
 Die Daten für die Arbeit wurden noch vor den aktuellen Änderungen am 27.11.2024 herunter geladen. 
 
 ##  4. <a name='PublikationzudenDaten'></a>Publikation zu den Daten
+Die Daten wurden 1996 in *The new England Journal of Medicine* veröffentlicht.
 https://www.nejm.org/doi/10.1056/NEJM199610103351501?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov
 
 ##  5. <a name='Variablen-Beschreibung'></a>Variablen-Beschreibung
@@ -66,5 +67,9 @@ cd40 |	Feature	| Integer	||	CD4 at baseline	||	no |
 cd420 |	Feature	| Integer	||	CD4 at 20+/-5 weeks	||	no |
 cd80 |	Feature	| Integer	||	CD8 at baseline	||	no |
 cd820 |	Feature	| Integer	||	CD8 at 20+/-5 weeks	||	no |
+
+##  6. <a name='DerPython-Code'></a>Der Python-Code
+Im Ordner `src` befindet sich der kompellte Python-Code für die vorliegende Arbeit. Die Arbeit wird mithilfe von `notebooks` in `.ipynb` geschrieben. Das initiale Herunterladen vom extrnen Source und Ablegen der Daten befindet sich in einem gesonderten File. Die komplette darauffolgende Programmierung mit dem ausführlichen Inhaltsverzeichnis befindet sich im `ml-survival-project.ipynb` File.
+
 
 
