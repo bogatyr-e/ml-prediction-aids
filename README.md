@@ -1,19 +1,17 @@
+# Machine Learning Modell zur Vorhersage des Überlebens nach einer AIDS-Infektion und dem darauf folgenden Treatment
+## Inhaltsverzeichnis
 <!-- vscode-markdown-toc -->
-* 1. [Inhaltsverzeichnis](#Inhaltsverzeichnis)
-* 2. [Die üblichen Schritte im Teminal](#DieblichenSchritteimTeminal)
-* 3. [Repository Struktur](#RepositoryStruktur)
-* 4. [Daten herunterladen](#Datenherunterladen)
-* 5. [Publikation zu den Daten](#PublikationzudenDaten)
-* 6. [Variablen-Beschreibung](#Variablen-Beschreibung)
+* 1. [Die üblichen Schritte im Teminal](##DieblichenSchritteimTeminal)
+* 2. [Repository Struktur](##RepositoryStruktur)
+* 3. [Daten herunterladen](##Datenherunterladen)
+* 4. [Publikation zu den Daten](##PublikationzudenDaten)
+* 5. [Variablen-Beschreibung](##Variablen-Beschreibung)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-
-# Machine Learning Modell zur Vorhersage des Überlebens nach einer AIDS-Infektion und dem darauf folgenden Treatment
-
 
  
 
