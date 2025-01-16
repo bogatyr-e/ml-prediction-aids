@@ -29,7 +29,7 @@
 
 `python -m pip freeze > requirements.txt` erstellt die Liste der aktuellen Pakete in `venv`
 
-`-m pip install --upgrade pip` Verisonen Upgrade
+`-m pip install --upgrade pip` Versionen Upgrade
 
 ## <a name='RepositoryStruktur'></a>Repository Struktur
 Es wurden Ordner für Daten `data`, Code `src`, Modelle `models`, Grafiken `plots` und Tabellen `tables` angelegt. Für die zu verwendenden Pakete wurde File `requirements.txt` erstellt. Eine ausführliche Anleitung zum Handing von requirements-file findet man [hier](https://learnpython.com/blog/python-requirements-file/).
