@@ -26,7 +26,7 @@
 `git push ` führt *push* aus
 
 ## <a name='RepositoryStruktur'></a>Repository Struktur
-Es wurden Ornder für Daten `data`, Code `src`, Modelle `models`, Grafiken `plots` und Tabellen `tables` angelegt. Für die zu verwendenden Pakete wurde File `requirements.txt` erstellt. Eine ausführliche Anleitung zum Handing von requirements-file findet man [hier](https://learnpython.com/blog/python-requirements-file/).
+Es wurden Ordner für Daten `data`, Code `src`, Modelle `models`, Grafiken `plots` und Tabellen `tables` angelegt. Für die zu verwendenden Pakete wurde File `requirements.txt` erstellt. Eine ausführliche Anleitung zum Handing von requirements-file findet man [hier](https://learnpython.com/blog/python-requirements-file/).
 
 ## <a name='DatenSource'></a>Daten Source
 https://archive.ics.uci.edu/dataset/890/aids+clinical+trials+group+study+175
