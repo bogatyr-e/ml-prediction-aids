@@ -1,11 +1,11 @@
 # Machine Learning Modell zur Vorhersage des Überlebens nach einer AIDS-Infektion und dem darauf folgenden Treatment
 
 ## Inhaltsverzeichnis
-1 .[Subheading 1](## Die üblichen Schritte im Teminal)
-2. [Subheading 2](## Repository Struktur)
-3. [Subheading 3](## Daten herunterladen)
-4. [Subheading 4](## Publikation zu den Daten)
-5. [Subheading 5](## Variablen-Beschreibung)
+1 .[Die üblichen Schritte im Teminal](## Die üblichen Schritte im Teminal)
+2. [Repository Struktur](## Repository Struktur)
+3. [Daten herunterladen](## Daten herunterladen)
+4. [Publikation zu den Daten](## Publikation zu den Daten)
+5. [Variablen-Beschreibung](## Variablen-Beschreibung)
 
 ## Die üblichen Schritte im Teminal
 `.\venv\Scripts\activate` aktiviert die virtuelle Umgebung
