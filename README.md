@@ -1,5 +1,15 @@
 # Machine Learning Modell zur Vorhersage des Überlebens nach einer AIDS-Infektion und dem darauf folgenden Treatment
 
+ {
+ "markdown.extension.toc.omittedFromToc": {
+        "README.md": [
+            "# Introduction",
+            "## Also omitted"
+        ]
+    }
+ }
+ 
+
 ## Inhaltsverzeichnis
 1 .[Die üblichen Schritte im Teminal](## Die üblichen Schritte im Teminal)
 2. [Repository Struktur](## Repository Struktur)
