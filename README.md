@@ -1,16 +1,12 @@
-title: 'Machine Learning Modell zur Vorhersage des Überlebens nach einer AIDS-Infektion und dem darauf folgenden Treatment'
-author: "Lioudmila Bogatyreva"
-date: '`r format.Date(Sys.Date(), "%d.%m.%Y")`'
- 
-output: 
-  html_document: 
-    code_folding: none
-    theme: united
-    toc: yes
-    toc_depth: 4
-    toc_float: yes
-
 # Machine Learning Modell zur Vorhersage des Überlebens nach einer AIDS-Infektion und dem darauf folgenden Treatment
+
+## Inhaltsverzeichnis
+[Subheading 1](## Die üblichen Schritte im Teminal)
+[Subheading 2](## Repository Struktur)
+[Subheading 3](## Daten herunterladen)
+[Subheading 4](## Publikation zu den Daten)
+[Subheading 5](## Variablen-Beschreibung)
+
 ## Die üblichen Schritte im Teminal
 `.\venv\Scripts\activate` aktiviert die virtuelle Umgebung
 
