@@ -68,7 +68,7 @@ cd420 |	Feature	| Integer	||	CD4 at 20+/-5 weeks	||	no |
 cd80 |	Feature	| Integer	||	CD8 at baseline	||	no |
 cd820 |	Feature	| Integer	||	CD8 at 20+/-5 weeks	||	no |
 
-Die Daten wurden vom Sourse aus getrennt in Features- und Target-Datensätzen zur Verfügung gestellt.
+Die Daten wurden vom Source aus getrennt in Features- und Target-Datensätzen zur Verfügung gestellt.
 
 ## <a name='DerPython-Code'></a>Der Python-Code
 Im Ordner `src` befindet sich der komplette Python-Code für die vorliegende Arbeit. Die Arbeit wird mithilfe von `Jupiter notebooks` in `.ipynb` geschrieben. Das initiale Herunterladen von einem externen Source und Ablegen der Daten am 27.11.2024 befindet sich in dem `df-import-alt-version.ipynb` File. Das Handing des neuen `ucimlrepo` befindet sich im `df-import-neuer-code.ipynb` File.  Die komplette darauffolgende Programmierung mit einem jeweils ausführlichen Inhaltsverzeichnis ist auf zwei Files verteilt. Das Preprocessing findet im `preprocessing.ipynb` und das Bilden von Modellen und Vorhersagen  im `ml-survival-project.ipynb` Files statt.
