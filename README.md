@@ -1,28 +1,30 @@
-# Machine Learning Modell zur Vorhersage des Überlebens nach einer AIDS-Infektion und dem darauf folgenden Treatment
-## Inhaltsverzeichnis
 <!-- vscode-markdown-toc -->
-* 1. [Die üblichen Schritte im Teminal](##DieblichenSchritteimTeminal)
-* 2. [Repository Struktur](##RepositoryStruktur)
-* 3. [Daten herunterladen](##Datenherunterladen)
-* 4. [Publikation zu den Daten](##PublikationzudenDaten)
-* 5. [Variablen-Beschreibung](##Variablen-Beschreibung)
+* 1. [Inhaltsverzeichnis](#Inhaltsverzeichnis)
+* 2. [Inhaltsverzeichnis](#Inhaltsverzeichnis-1)
+* 3. [Die üblichen Schritte im Teminal](#DieblichenSchritteimTeminal)
+* 4. [Repository Struktur](#RepositoryStruktur)
+* 5. [Daten herunterladen](#Datenherunterladen)
+* 6. [Publikation zu den Daten](#PublikationzudenDaten)
+* 7. [Variablen-Beschreibung](#Variablen-Beschreibung)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
+<!-- /vscode-markdown-toc --># Machine Learning Modell zur Vorhersage des Überlebens nach einer AIDS-Infektion und dem darauf folgenden Treatment
+##  1. <a name='Inhaltsverzeichnis'></a>Inhaltsverzeichnis
+
 
  
 
-##  1. <a name='Inhaltsverzeichnis'></a>Inhaltsverzeichnis
+##  2. <a name='Inhaltsverzeichnis-1'></a>Inhaltsverzeichnis
 1 .[Die üblichen Schritte im Teminal](## Die üblichen Schritte im Teminal)
 2. [Repository Struktur](## Repository Struktur)
 3. [Daten herunterladen](## Daten herunterladen)
 4. [Publikation zu den Daten](## Publikation zu den Daten)
 5. [Variablen-Beschreibung](## Variablen-Beschreibung)
 
-##  2. <a name='DieblichenSchritteimTeminal'></a>Die üblichen Schritte im Teminal
+##  3. <a name='DieblichenSchritteimTeminal'></a>Die üblichen Schritte im Teminal
 `.\venv\Scripts\activate` aktiviert die virtuelle Umgebung
 
 `git status` prüft Änderungen
@@ -33,20 +35,20 @@
 
 `git push ` führt *push* aus
 
-##  3. <a name='RepositoryStruktur'></a>Repository Struktur
+##  4. <a name='RepositoryStruktur'></a>Repository Struktur
 Es wurden Ornder für Daten `data`, Code `src`, Modelle `models`, Grafiken `plots` und Tabellen `tables` angelegt. Für die zu verwendenden Pakete wurde File `requirements.txt` erstellt. Eine ausführliche Anleitung zum Handing von requirements-file findet man [hier](https://learnpython.com/blog/python-requirements-file/).
 
-##  4. <a name='Datenherunterladen'></a>Daten herunterladen
+##  5. <a name='Datenherunterladen'></a>Daten herunterladen
 https://archive.ics.uci.edu/dataset/890/aids+clinical+trials+group+study+175
 
 Die Anweisungen beinhalten einen veralteten Code. Das aktuelle Handing des `ucimlrepo` Pakets kann man [hier](https://github.com/uci-ml-repo/ucimlrepo?tab=readme-ov-file#ucimlrepo-package) nachvollziehen.
 
 Die Daten für die Arbeit wurden noch vor den aktuellen Änderungen am 27.11.2024 herunter geladen. 
 
-##  5. <a name='PublikationzudenDaten'></a>Publikation zu den Daten
+##  6. <a name='PublikationzudenDaten'></a>Publikation zu den Daten
 https://www.nejm.org/doi/10.1056/NEJM199610103351501?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov
 
-##  6. <a name='Variablen-Beschreibung'></a>Variablen-Beschreibung
+##  7. <a name='Variablen-Beschreibung'></a>Variablen-Beschreibung
 
 |Variable Name |	Role |	Type |	Demographic	| Description |	Units |	Missing Values |
 |--------------|---------|-------|--------------|--------------|----|----------------|
