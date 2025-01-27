@@ -38,7 +38,7 @@ Es wurden Ordner für Code `src`, Daten `data`,  Modelle `models`, Grafiken `plo
 ## <a name='DatenSource'></a>Daten Source
 https://archive.ics.uci.edu/dataset/890/aids+clinical+trials+group+study+175
 
-Die Anweisungen beinhalten einen veralteten Code. Das aktuelle Handing des `ucimlrepo` Pakets kann man [hier](https://github.com/uci-ml-repo/ucimlrepo?tab=readme-ov-file#ucimlrepo-package) nachvollziehen. Die Daten für die Arbeit wurden unter den o.g. geänderten Bedingungen  am 16.01.2025 herunter geladen. 
+Die Anweisungen beinhalten einen veralteten Code. Das aktuelle Handing des `ucimlrepo` Pakets kann man [hier](https://github.com/uci-ml-repo/ucimlrepo?tab=readme-ov-file#ucimlrepo-package) nachvollziehen. Die Daten für die Arbeit wurden unter den o.g. geänderten Bedingungen final am 22.01.2025 herunter geladen. 
 
 ## <a name='PublikationzudenDaten'></a>Publikation zu den Daten
 Die Daten wurden 1996 im *The new England Journal of Medicine* veröffentlicht.
