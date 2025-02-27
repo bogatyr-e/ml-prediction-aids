@@ -78,7 +78,7 @@ cd820 |	Feature	| Integer	||	CD8 at 20+/-5 weeks	||	no |
 Die Daten wurden vom Source aus getrennt in Features- und Target-Datensätzen zur Verfügung gestellt.
 
 ## <a name='DerPython-Code'></a>Der Python-Code
-Im Ordner `src` befindet sich der komplette Python-Code für die vorliegende Arbeit. Die Arbeit wird mithilfe von `Jupiter notebooks` in `.ipynb` geschrieben. Das initiale Herunterladen von einem externen Source und Ablegen der Daten am 22.01.2025 befindet sich in dem `df-import.ipynb` File. Die komplette darauffolgende Programmierung mit einem jeweils ausführlichen Inhaltsverzeichnis ist auf zwei Files verteilt. Das Preprocessing findet im `preprocessing.ipynb` und das Bilden von Modellen und Vorhersagen  im `ml-survival-project.ipynb` File statt.
+Im Ordner `src` befindet sich der komplette Python-Code für die vorliegende Arbeit. Die Arbeit wird mithilfe von `Jupiter notebooks` in `.ipynb` geschrieben. Das initiale Herunterladen von dem [UC Irvine Repository](https://archive.ics.uci.edu/dataset/890/aids+clinical+trials+group+study+175) und Ablegen der Daten am 22.01.2025 befindet sich in dem `df-import.ipynb` File. Die komplette darauffolgende Programmierung mit einem jeweils ausführlichen Inhaltsverzeichnis ist auf zwei Files verteilt. Das Preprocessing findet im `preprocessing.ipynb` und das Bilden von Modellen und Vorhersagen  im `ml-survival-project.ipynb` File statt.
 
 
 
