@@ -12,7 +12,7 @@
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-# Machine Learning Modell zur Vorhersage des Überlebens nach einer AIDS-Infektion und dem darauf folgenden Treatment
+# Machine Learning Modell zur Vorhersage des Überlebens mit HIV-Infektion nach einer kombinierten retroviralen Zidovudin-Therapie
 
 ## <a name='DieblichenSchritteimTeminal'></a>Die üblichen Schritte im Teminal
 `.\venv\Scripts\activate` aktiviert die virtuelle Umgebung
